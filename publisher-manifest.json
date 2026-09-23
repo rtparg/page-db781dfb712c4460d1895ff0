@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "7eb9a2f032832f0d1d30d6d2",
+  "owner": "rtparg",
+  "repo": "page-db781dfb712c4460d1895ff0",
+  "title": "Alvin",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "db781dfb712c4460d1895ff0",
+      "a": "Alvin",
+      "b": "2027最新官网",
+      "entity": "Alvin",
+      "brand": "Alvin",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "b528c148f94f69c3c8b5eb0cf097a47350cb3c8d7c8d8f844dc127f25627f196",
+      "content": {
+        "primary_entity": "Alvin",
+        "keyword1": "Alvin",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_DESCRIPTION": "，Alvin 提供基础版、旗舰版与团队版三档海外加速套餐，月付十五元起。基础版每月 100GB 流量支持 3 台设备，旗舰版每月 300GB 支持 5 台并含 IPLC 专线，团队版每月 1000GB 支持 20 台设备，适合个人、家庭和小型工作室按需选择。",
+          "AI_HERO_SUBTITLE": "Alvin 海外加速，按设备选套餐",
+          "AI_HERO_INTRO": "Alvin 面向需要稳定访问海外流媒体与低延迟联机的用户，提供基础版、旗舰版和团队版三档订阅。按设备数量与月流量挑选合适档位，再依客户端文档导入订阅即可开始使用。",
+          "AI_VISUAL_TITLE": "Alvin 多档套餐按需选",
+          "AI_HIGHLIGHT_1": "基础版支持 3 台设备在线",
+          "AI_HIGHLIGHT_2": "旗舰版 IPLC 专线游戏优化",
+          "AI_HIGHLIGHT_3": "团队版支持 20 台设备共享",
+          "AI_FEATURES_TITLE": "选套餐看三点",
+          "AI_FEATURES_INTRO": "先统计日常在线设备数、月流量需求与预算，再对照三档套餐权益，能较快找到合适档位。",
+          "AI_FEATURE_TITLE_1": "设备数量",
+          "AI_FEATURE_TEXT_1": "基础版 3 台，旗舰版 5 台，团队版 20 台，按同时在线设备数选择。",
+          "AI_FEATURE_TITLE_2": "月流量",
+          "AI_FEATURE_TEXT_2": "每月 100GB、300GB、1000GB 三档，常看高清视频或联机建议选大流量档。",
+          "AI_FEATURE_TITLE_3": "计费周期",
+          "AI_FEATURE_TEXT_3": "月付灵活试水，年付更省，基础版年付 150 元，旗舰版年付 350 元。",
+          "AI_CLIENTS_TITLE": "按设备选客户端",
+          "AI_CLIENTS_INTRO": "Windows、macOS、Android、iOS 和路由器各有适配的客户端，按设备类型安装对应版本，再导入订阅信息。",
+          "AI_PLANS_TITLE": "三档套餐对比",
+          "AI_PLANS_INTRO": "基础版月付 15 元含 100GB 流量与 3 台设备，旗舰版月付 35 元含 300GB 流量、5 台设备与 IPLC 专线，团队版月付 85 元含 1000GB 流量与 20 台设备。",
+          "AI_GUIDE_TITLE": "开通三步",
+          "AI_GUIDE_INTRO": "从选套餐到配置完成，大致需要确认需求、核对适配要求和导入订阅三步。",
+          "AI_STEP_TITLE_1": "选定套餐",
+          "AI_STEP_TEXT_1": "按设备数量与月流量需求，在基础版、旗舰版、团队版中挑一个档位。",
+          "AI_STEP_TITLE_2": "核对适配",
+          "AI_STEP_TEXT_2": "确认操作系统版本与客户端是否匹配，路由器用户需先了解固件支持情况。",
+          "AI_STEP_TITLE_3": "导入订阅",
+          "AI_STEP_TEXT_3": "在对应客户端按文档添加订阅地址，更新节点后即可连接使用。",
+          "AI_CLOSING_TITLE": "按需挑档，轻松连接",
+          "AI_CLOSING_TEXT": "统计好设备数与流量，选一档 Alvin 套餐，搭配适配客户端开始使用。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量，最多 3 台设备同时在线，适合手机、平板为主、日常浏览和轻度视频的用户。",
+          "AI_FAQ_ANSWER_2": "旗舰版支持 5 台设备同时在线，每月 300GB 流量，含 IPLC 专线游戏加速优化与全节点原生流媒体解锁。",
+          "AI_FAQ_ANSWER_3": "按年付更划算，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，长期使用可选年付。",
+          "AI_FAQ_ANSWER_4": "将订阅链接导入对应客户端，按客户端文档完成配置，设备数量不超过套餐上限即可正常使用。",
+          "AI_FAQ_ANSWER_5": "团队版支持 20 台设备同时在线，每月 1000GB 流量，可选企业定制路由并配有专属客户经理。",
+          "AI_FAQ_QUESTION_1": "基础版适合什么用户？",
+          "AI_FAQ_QUESTION_2": "旗舰版有哪些加速优势？",
+          "AI_FAQ_QUESTION_3": "按年付和按月付怎么选？",
+          "AI_FAQ_QUESTION_4": "如何导入订阅到客户端？",
+          "AI_FAQ_QUESTION_5": "团队版能支持多少设备？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--fjqzfr8j6xmdt9d.com",
+    "host": "xn--fjqzfr8j6xmdt9d.com"
+  },
+  "file_hashes": {
+    "index.html": "78f8119e47d354ccc871a4c2a8aa981de51ab8cd32b6e26c2e13fcf77fb3bf96",
+    "sitemap.xml": "0bcfd3cc70c68cc1cbc849dbddd18e9b37406931458c722f8691e5058b9a31ea",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "451b44816bf057c63369521f28fcf1c5726d6d6a3547d53f6747dc6527f706c8",
+    "robots.txt": "2787a2a26f5918d938155388c9e9e0682d7792e83bb2362a3fa9fa9405b81c64",
+    "1927f3c47160378721e8fda23caa645e.txt": "d54f8eb882fb0ea1fb8427e6dcad1e3be5a79a9963bf6a88331204dd6def39b3"
+  },
+  "revision": "1d107960ac498c5c355a42c0ecea8d998ad6fd26e58b1ec826a515d89b2159b1"
+}
